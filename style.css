@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(53, 0, 0);
+    color: hsl(66, 100%, 43%);
+}
+
+h1{
+    color: hsl(66, 100%, 43%);
+    margin: auto;
+    text-align: center;
+}
+
+hr{
+    color: hsl(66, 100%, 43%);
+}
